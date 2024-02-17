@@ -1,0 +1,3 @@
+FROM llama:13b
+
+ADAPTER ./lora/fingpt-sentiment_llama2-13b_lora.bin

@@ -1,0 +1,3 @@
+FROM llama2:7b
+
+ADAPTER ./lora/fingpt-mt_llama2-7b_lora.bin
