@@ -26,4 +26,7 @@ ollama run <name>
 * [FinGPT GitHub](https://github.com/AI4Finance-Foundation/FinGPT)
 * [FinGPT Llama 7b LoRA](https://huggingface.co/FinGPT/fingpt-mt_llama2-7b_lora)
 * [Drop LoRA](https://huggingface.co/predibase/drop)
-* [Drop Explained](https://huggingface.co/predibase/drop_explained)
+* [Drop Explained LoRA](https://huggingface.co/predibase/drop_explained)
+* [TLDR Content Gen LoRA](https://huggingface.co/predibase/tldr_content_gen)
+* [TLDR Headline Gen LoRA](https://huggingface.co/predibase/tldr_headline_gen)
+* [Magicoder LoRA](https://huggingface.co/predibase/magicoder)
