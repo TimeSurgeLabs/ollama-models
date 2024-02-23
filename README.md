@@ -2,9 +2,16 @@
 
 Ollama Modelfiles and GGML converted LoRAs for the Ollama project.
 
-## Links
+## Ollama Models
+
+* [Rocket](https://ollama.com/chand1012/rocket) - `ollama pull chand1012/rocket`
+* [Drop](https://ollama.com/chand1012/drop) - `ollama pull chand1012/drop`
+
+## Source Links
 
 * [Rocket GGUF](https://huggingface.co/TheBloke/rocket-3B-GGUF)
 * [Rocket 3B](https://huggingface.co/pansophic/rocket-3B)
 * [FinGPT GitHub](https://github.com/AI4Finance-Foundation/FinGPT)
 * [FinGPT Llama 7b LoRA](https://huggingface.co/FinGPT/fingpt-mt_llama2-7b_lora)
+* [Drop LoRA](https://huggingface.co/predibase/drop)
+* [Drop Explained](https://huggingface.co/predibase/drop_explained)

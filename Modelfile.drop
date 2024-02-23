@@ -1,0 +1,3 @@
+FROM mistral:7b-text-q5_K_M
+
+ADAPTER ./lora/drop-lora.bin
