@@ -2,10 +2,22 @@
 
 Ollama Modelfiles and GGML converted LoRAs for the Ollama project.
 
-## Ollama Models
+## Prebuilt Models
 
 * [Rocket](https://ollama.com/chand1012/rocket) - `ollama pull chand1012/rocket`
 * [Drop](https://ollama.com/chand1012/drop) - `ollama pull chand1012/drop`
+
+## Building The Models
+
+```bash
+ollama create <name> -f <model-file>
+```
+
+## Running the pulled or built models
+
+```bash
+ollama run <name>
+```
 
 ## Source Links
 
