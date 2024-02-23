@@ -1,0 +1,3 @@
+FROM tinyllama:1.1b
+
+ADAPTER ./lora/tinyllama_sentiment_lora.bin
